@@ -1,0 +1,172 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: #111111;
+    font-family: 'Poppins', sans-serif;
+    color:rgba(255, 255, 255, 0.5);
+    font-size: 15px;
+}
+#container1{
+    position: fixed;
+    width: 294px;
+    height: 751px;
+    left: 8px;
+    top: 7px;
+    background: rgb(38, 38, 38);
+    border-radius: 30px;
+
+}
+#img1{
+  
+        margin: 30px 55px;
+        width: 185px;
+        height: 175px;
+        
+       
+        border: none;
+        border-radius: 1000px;
+        }
+    
+#name{
+    color:white;
+    margin-top: -20px;
+    margin-left:98px ;
+
+    font-size: 20px;
+
+}
+#bil{
+    margin-left: 115px;
+    margin-top:-10px;
+    font-size:15px;
+
+}
+.div1
+{
+ position: fixed;
+ top:295px;
+ left: 24px;
+width:294px;
+height: 61px;
+
+
+}
+button{
+    width:270px;
+    height:47px;
+    border-color: #111111;
+    background-color: #111111;
+    color:rgba(255, 255, 255, 0.5);
+    border-radius:30px;
+    margin-top: 15px;
+    margin-right:50px;
+}
+
+.h2{
+
+    color:white;
+    font-size:20px;
+    margin-top:30px;
+    margin-left:36px;
+}
+
+
+#container2{
+   
+
+    position: fixed;
+    width: 1168px;
+    height: 367px;
+    left: 314px;
+    top: 7px;
+    background: #262626;
+    box-shadow: 0px 4px 4px rgb(0 0 0 / 25%);
+    border-radius: 30px;
+}
+#para1{
+    width:445px;
+    margin-top:36px;
+    margin-left:36px;
+
+}
+#div2{
+    
+    width: 477px;
+    height: 316px;
+}
+a{
+    color:rgba(255, 255, 255, 0.5);
+}
+#div3{
+    margin:-265px 7px 0px 500px;
+    background-color: aliceblue;
+    width: 626px;
+    height: 265px;
+    
+
+
+border-radius:20px;
+}
+#img2{
+
+    width: 626px;
+    height: 265px;
+    
+
+
+border-radius:20px;
+}
+
+
+
+#container3{
+   position: fixed;
+    width: 1168px;
+    height: 367px;
+    left: 314px;
+    top:388px;
+    background: #262626;
+    box-shadow: 0px 4px 4px rgb(0 0 0 / 25%);
+    border-radius: 30px;
+}
+table{
+     width:100%;
+      height:100%;
+  border-collapse:collapse;
+   
+}
+#tt{
+    margin-top:25px;
+    margin-left:40px;
+
+    border:2px solid grey;
+    border-radius:30px;
+    width:1090px;
+    height:257px;
+}
+th{
+   
+   
+    height: 50px;
+    border-bottom:2px solid grey;
+    border-right:2px solid grey;
+
+}
+td{ 
+    
+    border-right:2px solid grey;
+    
+    text-align: center;
+    border-collapse: collapse;
+    
+}
+td:last-child,th:last-child{
+border-right: none;
+}
+.td{
+    
+    text-align: left;
+    padding-left: 10px;
+
+}
